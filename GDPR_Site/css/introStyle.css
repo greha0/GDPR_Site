@@ -1,0 +1,34 @@
+h1{
+    background-color: #996888;
+    color: white;
+    text-shadow: 2px 2px 8px black;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+}
+
+.cont{
+    display: flex;
+    height: 80%;
+    width: 100%;
+    
+}
+
+.immagine{
+    background-image: url("../img/GDPR.png");
+    width: 40%;
+    height: 50% ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 5%;
+    top: 25%;
+}
+
